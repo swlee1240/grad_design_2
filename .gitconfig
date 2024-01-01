@@ -1,0 +1,17 @@
+[user]
+	name = Sang Won Lee
+	email = lsw1240@gmail.com
+[http]
+	postBuffer = 52428800000
+
+[core]
+	packedGitLimit = 512m
+	packedGitWindowSize = 512m
+
+[pack]g
+	deltaCacheSize = 2047m
+	packSizeLimit = 2047m
+	windowMemory = 2047m
+
+
+	

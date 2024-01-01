@@ -1,0 +1,11 @@
+stable-diffusion-webui/
+outputs/
+input_photo/
+input_audio/
+test.ipynb
+pororo/
+wav2letter/
+input_text/
+result_image/
+input_audio2text/
+home_image/
